@@ -1,0 +1,17 @@
+# Archivos de Eclipse
+.metadata/
+.settings/
+.project
+.classpath
+
+# Archivos compilados de Java
+*.class
+bin/
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Configuración local
+.DS_Store
+Thumbs.db
